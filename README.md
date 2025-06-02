@@ -38,6 +38,8 @@ The analysis seeks to understand how customers interact with the retail platform
 
 * Implement a loyalty rewards program for "Potential" and "Loyal" customers to push them to "Champion" status.
 
+ <img width="472" alt="image" src="https://github.com/Gursimransachar/Superstore_Customer_Behaviour_Analysis/blob/Visuals/RFM.png" />
+
 
 ## 2. CLTV Estimation
 

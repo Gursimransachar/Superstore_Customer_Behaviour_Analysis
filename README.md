@@ -61,6 +61,8 @@ The analysis seeks to understand how customers interact with the retail platform
 *  Focus marketing and retention strategies on high CLTV customers.
 *  Use predictive modeling to identify potential high-CLTV customers early.
 
+ <img width="472" alt="image" src="https://github.com/Gursimransachar/Superstore_Customer_Behaviour_Analysis/blob/Visuals/CLTV.png" />
+
 
 ## 3. Cohort Analysis
 
@@ -84,6 +86,7 @@ The analysis seeks to understand how customers interact with the retail platform
 * Re-engage new customers early with email campaigns, upsells, or onboarding guides.
 * Study past successful cohorts to replicate their behavior.
 
+ <img width="472" alt="image" src="https://github.com/Gursimransachar/Superstore_Customer_Behaviour_Analysis/blob/Visuals/Cohort.png" />
 
 
 ## 4. Repeat Purchase Behavior
@@ -101,6 +104,10 @@ The analysis seeks to understand how customers interact with the retail platform
 * Create category-specific bundles or incentives to drive repeat purchases.
 * Use cross-selling for categories with fewer repeat purchases.
 
+ <img width="472" alt="image" src="https://github.com/Gursimransachar/Superstore_Customer_Behaviour_Analysis/blob/Visuals/RCB%201.png" />
+
+  <img width="472" alt="image" src="https://github.com/Gursimransachar/Superstore_Customer_Behaviour_Analysis/blob/Visuals/RCB%202.png" />
+
 
 ## 5. Geo Loyalty Analysis
 
@@ -117,6 +124,8 @@ The analysis seeks to understand how customers interact with the retail platform
  
 * Double down on retention strategies in top-performing regions.
 * Launch localized promotions or customer outreach in lower CLTV areas.
+
+ <img width="472" alt="image" src="https://github.com/Gursimransachar/Superstore_Customer_Behaviour_Analysis/blob/Visuals/GL.png" />
 
 
 # Strategic Business Recommendations
